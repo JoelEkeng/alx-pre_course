@@ -1,7 +1,1 @@
-git add .
-git commit -m
-git push
-git branch
-git branch -a
-git checkout -
-git checkout
+git pull 
